@@ -12,7 +12,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                dir("/var/lib/jenkins/workspace/jenkins-pipeline/pom.xml") {
+                dir("/var/lib/jenkins/workspace/jenkins-pipeline") {
                 sh 'mvn clean package'
                 }
             }
