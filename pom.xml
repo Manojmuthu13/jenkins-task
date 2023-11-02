@@ -125,13 +125,13 @@
     		<repository>
       		    <id>nexus</id>
      		    <name>vr-release</name>
-      		    <url>http://http://3.6.40.141:8081//repository/vr-release/</url>
+      		    <url>http://http://43.205.240.163:8081//repository/vr-release/</url>
     		</repository>
 	    
        		<snapshotRepository>
       		    <id>nexus</id>
       		    <name>vr-snapshot</name>
-      		    <url>http://http://3.6.40.141:8081//repository/vr-snapshot/</url>
+      		    <url>http://http://43.205.240.163:8081//repository/vr-snapshot/</url>
     		</snapshotRepository>
     </distributionManagement>
     <build>
