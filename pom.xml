@@ -20,8 +20,8 @@
         <logback.version>1.1.3</logback.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-	<sonar.host.url>http://http://3.110.159.235:9000</sonar.host.url>
-        <sonar.login>squ_9c84e1ee231cc809be2e5563fa72ce74ba488bad</sonar.login>
+	<sonar.host.url>http://http://43.205.241.73:9000</sonar.host.url>
+        <sonar.login>squ_f22db69002383d73557777a550c74c04edde4c0e</sonar.login>
     </properties>
 
     <dependencies>
